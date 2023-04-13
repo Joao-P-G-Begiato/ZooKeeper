@@ -59,3 +59,7 @@ Projeto desenvolvido por mim, João Paulo Gotardi Begiato e para me contatar pod
 <img src="./readme/linkedin.png" width="20px"/> [Linked-In](https://www.linkedin.com/in/joaopgbegiato/)  
 <img src="./readme/github.png" width="20px"/> [GitHub](https://github.com/Joao-P-G-Begiato)  
 <img src="./readme/email.png" width="20px"/> jpbegiato@hotmail.com  
+
+## Licença 📄
+
+This project is under the MIT license - see the archive [LICENSE](https://github.com/Joao-P-G-Begiato/ZooKeeper/blob/main/LICENSE) for details.
