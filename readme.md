@@ -52,14 +52,14 @@ Please enter the number of the habitat you would like to view: > exit
 See you later!
 
 ```
-## Contato 
+## Contact 
 
-Projeto desenvolvido por mim, João Paulo Gotardi Begiato e para me contatar pode-se utilizar os seguintes meios:
+Project developed by me and to contact me you can use the following means:
 
 <img src="./readme/linkedin.png" width="20px"/> [Linked-In](https://www.linkedin.com/in/joaopgbegiato/)  
 <img src="./readme/github.png" width="20px"/> [GitHub](https://github.com/Joao-P-G-Begiato)  
 <img src="./readme/email.png" width="20px"/> jpbegiato@hotmail.com  
 
-## Licença 📄
+## License 📄
 
 This project is under the MIT license - see the archive [LICENSE](https://github.com/Joao-P-G-Begiato/ZooKeeper/blob/main/LICENSE) for details.
