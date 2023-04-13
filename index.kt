@@ -113,5 +113,22 @@ const val rabbit = """Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
 
-
-
+fun main() {
+  print("Please enter the number of the habitat you would like to view:")
+  val habitat = readln()
+  val zoo = mutableListOf<String>(camel, lion, deer, goose, bat, rabbit)
+  if (habitat == "exit") {
+      println("See you later!")
+  }else {
+      val cageNumber = habitat.toInt()
+      if (cageNumber in 0 .. zoo.size -1) {
+          println(zoo[cageNumber])
+          println("---")
+          // in this case I chose to use recursion to work, because I wanted to get out of the loop concept that can generate several 
+          // problems such as overheating of the processor, infinite loops, among others
+          main()
+          } else {
+              println("This habitat is under construcition, see you later!")
+          }
+  }
+}
